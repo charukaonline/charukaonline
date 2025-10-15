@@ -4,6 +4,8 @@
 - 📫 Reach me on <a href="mailto:hello@charukank.com">hello@charukank.com</a>
 
 <!--- Holopin Board --->
+Holopin Badges
+
 [![An image of @charukaonline's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/charukaonline)](https://holopin.io/@charukaonline)
 
 <!---
